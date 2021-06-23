@@ -18,7 +18,7 @@ Ministri dell'interno e di grazia e giustizia;
                      il seguente decreto-legge: 
                                Art. 1. 
 Discriminazione,  odio  o  violenza  per  motivi  razziali,   etnici,
-                        nazionali o religiosi 
+                        nazionali o religiosi o fondati sul sesso, sul genere, sull’orientamento sessuale, sull’identità di genere o sulla disabilità
   1. L'articolo 3 della legge 13 ottobre 1975, n. 654, e'  sostituito
 dal seguente: 
     "Art. 3. - ((1. Salvo che il fatto costituisca piu' grave  reato,
@@ -35,15 +35,18 @@ religiosi)).
     2.((CAPOVERSO SOPPRESSO DALLA L. 25 GIUGNO 1993, N. 205)). 
     ((3. E' vietata ogni organizzazione,  associazione,  movimento  o
 gruppo avente tra i propri scopi l'incitamento alla discriminazione o
-alla violenza per motivi razziali, etnici, nazionali o religiosi. Chi
+alla violenza per motivi razziali, etnici, nazionali o religiosi 
+o fondati sul sesso, sul genere, sull’orientamento
+sessuale, sull’identità di genere o sulla disabilità. Chi
 partecipa a tali organizzazioni, associazioni, movimenti o gruppi,  o
 presta assistenza alla loro attivita', e' punito, per il  solo  fatto
 della partecipazione o dell'assistenza, con la reclusione da sei mesi
 a quattro anni. Coloro che promuovono o dirigono tali organizzazioni,
 associazioni, movimenti o gruppi sono puniti, per cio' solo,  con  la
 reclusione da uno a sei anni)). 
-  ((1- bis. Con la sentenza di condanna per uno  dei  reati  previsti
-dall'articolo 3 della legge 13 ottobre 1975, n. 654, o  per  uno  dei
+  ((1- bis. Con la sentenza di condanna per uno  dei  delitti di cui all’articolo 604-bis del codice penale ovvero per un delitto 
+  aggravato dalla circostanza di cui all’articolo
+604-ter del medesimo codice, o  per  uno  dei
 reati previsti dalla legge 9 ottobre 1967, n. 962, il tribunale  puo'
 altresi' disporre una o piu' delle seguenti sanzioni accessorie: 
     a) obbligo di prestare un'attivita' non retribuita a favore della
@@ -60,15 +63,24 @@ di ogni genere;
 propaganda elettorale per le elezioni politiche o amministrative suc-
 cessive alla condanna, e comunque per un periodo non inferiore a  tre
 anni. 
-  1-ter. Entro trenta giorni dalla data di entrata  in  vigore  della
-legge di conversione del presente decreto, il Ministro  di  grazia  e
-giustizia determina, con proprio decreto, le modalita' di svolgimento
-dell'attivita' non retribuita a favore della collettivita' di cui  al
-comma 1- bis, lettera a). 
-  1-quater. L'attivita' non retribuita a favore della  collettivita',
-da svolgersi al termine dell'espiazione della pena detentiva  per  un
-periodo massimo di dodici  settimane,  deve  essere  determinata  dal
-giudice  con  modalita'  tali  da  non   pregiudicare   le   esigenze
+  1-ter. Nel caso di condanna per uno dei
+    delitti indicati al comma 1-bis, la sospen-
+    sione condizionale della pena può essere su-
+    bordinata, se il condannato non si oppone,
+    alla prestazione di un’attività non retribuita
+    a favore della collettività secondo quanto
+    previsto dai commi 1-quater, 1-quinquies e
+    1-sexies. Per i medesimi delitti, nei casi di
+    richiesta dell’imputato di sospensione del
+    procedimento con messa alla prova, per la-
+    voro di pubblica utilità si intende quanto
+    previsto dai commi 1-quater, 1-quinquies e
+    1-sexies
+
+  1-quater. L'attivita' non retribuita a favore della  collettivita'
+e'  determinata  dal
+giudice, tenuto conto delle ragioni che hanno determinato la condotta,  
+con  modalita'  tali  da  non   pregiudicare   le   esigenze
 lavorative, di studio o di reinserimento sociale del condannato. 
     1-quinquies.  Possono  costituire  oggetto   dell'attivita'   non
 retribuita a favore della collettivita': la prestazione di  attivita'
@@ -79,7 +91,10 @@ dell'articolo 3 della legge 13 ottobre 1975, n. 654;  lo  svolgimento
 di lavoro a favore di  organizzazioni  di  assistenza  sociale  e  di
 volontariato, quali  quelle  operanti  nei  confronti  delle  persone
 handicappate,  dei   tossicodipendenti,   degli   anziani   o   degli
-extracomunitari; la prestazione di lavoro per finalita' di protezione
+extracomunitari, degli stranieri o a favore
+delle associazioni di tutela delle vittime dei
+reati di cui all’articolo 604-bis del codice
+penale; la prestazione di lavoro per finalita' di protezione
 civile, di tutela del patrimonio ambientale e culturale, e per  altre
 finalita' pubbliche individuate con il decreto di cui al comma 1-ter. 
   1-sexies. L'attivita' puo' essere svolta nell'ambito e a favore  di
